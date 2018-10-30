@@ -1,5 +1,5 @@
 # Kasper
-A simple website with certain social-media features to motivate and increase employee's interaction in organization.
+A simple web portal for your organization with social-media features to motivate and increase employee's interaction & productivity in the project.
 
 ## Modules:
 * U-Share
