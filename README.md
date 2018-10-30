@@ -1,4 +1,4 @@
-# kasper
+# Kasper
 A simple website with certain social-media features to motivate and increase employee's interaction in organization.
 
 ## Modules:
